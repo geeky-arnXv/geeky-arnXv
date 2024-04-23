@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @geeky-arnXv
 - 👀 I’m interested in **Full Stack Developement**
-- 🌱 I’m currently learning *JAVASCRIPT*
+- 🌱 I’m currently learning *Machine Leaning *
 - 📫 How to reach me chapagainarnap@gmail.com
 - 😄 Pronouns: He/HIM/HIS
 
